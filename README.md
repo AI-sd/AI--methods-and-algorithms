@@ -1,1 +1,1 @@
-# AI--m-thodes-et-algorithmes
+# AI--méthodes-et-algorithmes
